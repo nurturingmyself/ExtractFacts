@@ -1,4 +1,5 @@
-package com.cota.interview
+package com.text.analysis
+
 import java.io._
 
 import net.liftweb.json.JsonParser.ParseException
