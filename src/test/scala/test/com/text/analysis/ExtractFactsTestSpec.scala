@@ -1,7 +1,7 @@
-package test.com.cota.interview
+package test.com.text.analysis
 
-import com.cota.interview.TextAnalysis
 import com.cota.interview.TextAnalysis._
+import com.text.analysis.TextAnalysis
 import org.scalatest._
 
 /**
